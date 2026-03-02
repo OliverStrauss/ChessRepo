@@ -6,9 +6,13 @@ public class Pawn: Peice
     {
         
     }
-
-    public void move()
+    public override void Move()
     {
         
+    }
+
+    public override string ToString()
+    {
+        return "P";
     }
 }

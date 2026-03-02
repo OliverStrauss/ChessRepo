@@ -300,11 +300,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/Chess/Chess/MyGame.csproj",
+      "projectUniqueName": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/Chess/Chesss/ChessAttempt/Chess/MyGame.csproj",
       "projectName": "MyGame",
-      "projectPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/Chess/Chess/MyGame.csproj",
+      "projectPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/Chess/Chesss/ChessAttempt/Chess/MyGame.csproj",
       "packagesPath": "/Users/oliverstrauss/.nuget/packages/",
-      "outputPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/Chess/Chess/obj/",
+      "outputPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/Chess/Chesss/ChessAttempt/Chess/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/oliverstrauss/.nuget/NuGet/NuGet.Config"

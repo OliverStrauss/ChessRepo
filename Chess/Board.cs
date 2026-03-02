@@ -1,4 +1,5 @@
 using System.Runtime.InteropServices.JavaScript;
+using MyGame.Peices;
 
 namespace MyGame;
 
@@ -11,6 +12,7 @@ public class Board
     {
         _board = new Tile[8,8];
         initTile();
+        initPeices();
         
         
     }
@@ -43,6 +45,14 @@ public class Board
             }
         }
         
+    }
+
+    public void initPeices()
+    {
+        for (int i = 0; i < 8; i++)
+        {
+            _board[1,i].placePeice( new Pawn(_board[1,i],false));
+        }
     }
 
     public override string ToString()

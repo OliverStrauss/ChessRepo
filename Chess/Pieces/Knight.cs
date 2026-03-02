@@ -8,7 +8,7 @@ public class Knight: Peice
         
     }
 
-    public void move()
+    public override void Move()
     {
         
     }
