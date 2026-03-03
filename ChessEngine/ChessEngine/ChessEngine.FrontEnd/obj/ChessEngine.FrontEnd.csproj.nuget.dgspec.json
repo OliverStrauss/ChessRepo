@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.FrontEnd/ChessEngine.FrontEnd.csproj": {}
+    "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessAttempt/ChessEngine/ChessEngine/ChessEngine.FrontEnd/ChessEngine.FrontEnd.csproj": {}
   },
   "projects": {
-    "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Backend/ChessEngine.Backend.csproj": {
+    "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessAttempt/ChessEngine/ChessEngine/ChessEngine.Backend/ChessEngine.Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Backend/ChessEngine.Backend.csproj",
+        "projectUniqueName": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessAttempt/ChessEngine/ChessEngine/ChessEngine.Backend/ChessEngine.Backend.csproj",
         "projectName": "ChessEngine.Backend",
-        "projectPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Backend/ChessEngine.Backend.csproj",
+        "projectPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessAttempt/ChessEngine/ChessEngine/ChessEngine.Backend/ChessEngine.Backend.csproj",
         "packagesPath": "/Users/oliverstrauss/.nuget/packages/",
-        "outputPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Backend/obj/",
+        "outputPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessAttempt/ChessEngine/ChessEngine/ChessEngine.Backend/obj/",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
@@ -28,16 +28,16 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj": {
-                "projectPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj"
+              "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessAttempt/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj": {
+                "projectPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessAttempt/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj"
               }
             }
           },
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj": {
-                "projectPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj"
+              "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessAttempt/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj": {
+                "projectPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessAttempt/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj"
               }
             }
           }
@@ -691,14 +691,14 @@
         }
       }
     },
-    "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj": {
+    "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessAttempt/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj",
+        "projectUniqueName": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessAttempt/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj",
         "projectName": "ChessEngine.Engine",
-        "projectPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj",
+        "projectPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessAttempt/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj",
         "packagesPath": "/Users/oliverstrauss/.nuget/packages/",
-        "outputPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Engine/obj/",
+        "outputPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessAttempt/ChessEngine/ChessEngine/ChessEngine.Engine/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/oliverstrauss/.nuget/NuGet/NuGet.Config"
@@ -760,14 +760,14 @@
         }
       }
     },
-    "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.FrontEnd/ChessEngine.FrontEnd.csproj": {
+    "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessAttempt/ChessEngine/ChessEngine/ChessEngine.FrontEnd/ChessEngine.FrontEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.FrontEnd/ChessEngine.FrontEnd.csproj",
+        "projectUniqueName": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessAttempt/ChessEngine/ChessEngine/ChessEngine.FrontEnd/ChessEngine.FrontEnd.csproj",
         "projectName": "ChessEngine.FrontEnd",
-        "projectPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.FrontEnd/ChessEngine.FrontEnd.csproj",
+        "projectPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessAttempt/ChessEngine/ChessEngine/ChessEngine.FrontEnd/ChessEngine.FrontEnd.csproj",
         "packagesPath": "/Users/oliverstrauss/.nuget/packages/",
-        "outputPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.FrontEnd/obj/",
+        "outputPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessAttempt/ChessEngine/ChessEngine/ChessEngine.FrontEnd/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/oliverstrauss/.nuget/NuGet/NuGet.Config"
@@ -782,8 +782,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Backend/ChessEngine.Backend.csproj": {
-                "projectPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Backend/ChessEngine.Backend.csproj"
+              "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessAttempt/ChessEngine/ChessEngine/ChessEngine.Backend/ChessEngine.Backend.csproj": {
+                "projectPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessAttempt/ChessEngine/ChessEngine/ChessEngine.Backend/ChessEngine.Backend.csproj"
               }
             }
           }

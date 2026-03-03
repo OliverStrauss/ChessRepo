@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LDDT22Qa1O4=",
+  "dgSpecHash": "YFLpENrFjx4=",
   "success": true,
-  "projectFilePath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Backend/ChessEngine.Backend.csproj",
+  "projectFilePath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessAttempt/ChessEngine/ChessEngine/ChessEngine.Backend/ChessEngine.Backend.csproj",
   "expectedPackageFiles": [
     "/Users/oliverstrauss/.nuget/packages/microsoft.netcore.app.ref/8.0.23/microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
     "/Users/oliverstrauss/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.23/microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512",

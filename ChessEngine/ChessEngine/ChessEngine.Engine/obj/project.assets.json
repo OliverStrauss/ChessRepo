@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj",
+      "projectUniqueName": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessAttempt/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj",
       "projectName": "ChessEngine.Engine",
-      "projectPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj",
+      "projectPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessAttempt/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj",
       "packagesPath": "/Users/oliverstrauss/.nuget/packages/",
-      "outputPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Engine/obj/",
+      "outputPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessAttempt/ChessEngine/ChessEngine/ChessEngine.Engine/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/oliverstrauss/.nuget/NuGet/NuGet.Config"
