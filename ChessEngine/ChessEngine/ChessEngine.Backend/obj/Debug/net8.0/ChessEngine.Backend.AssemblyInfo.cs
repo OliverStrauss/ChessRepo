@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChessEngine.Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+912ab7d249befd366dc33e6273df60790b8dcbf1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a656630e8f7aa2734060bcdc7c6d855422f37120")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChessEngine.Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChessEngine.Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,6 +3,7 @@
   <component name="UserContentModel">
     <attachedFolders>
       <Path>../../../ChessAttempt</Path>
+      <Path>../../../ChessRepo</Path>
       <Path>../../ChessEngine</Path>
     </attachedFolders>
     <explicitIncludes />
