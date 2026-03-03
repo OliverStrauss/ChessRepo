@@ -4,7 +4,7 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessRepo/ChessEngine/ChessEngine/ChessEngine.FrontEnd/Content/DefaultFont.spritefont</File>
+    <File>C:/Users/alexm/OneDrive/Desktop/CS_Projects/ChessRepo/ChessEngine/ChessEngine/ChessEngine.FrontEnd/Content/DefaultFont.spritefont</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

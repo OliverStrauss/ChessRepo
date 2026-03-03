@@ -8,24 +8,31 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/oliverstrauss/.nuget/packages/": {}
+    "C:\\Users\\alexm\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessRepo/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj",
+      "projectUniqueName": "C:\\Users\\alexm\\OneDrive\\Desktop\\CS_Projects\\ChessRepo\\ChessEngine\\ChessEngine\\ChessEngine.Engine\\ChessEngine.Engine.csproj",
       "projectName": "ChessEngine.Engine",
-      "projectPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessRepo/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj",
-      "packagesPath": "/Users/oliverstrauss/.nuget/packages/",
-      "outputPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessRepo/ChessEngine/ChessEngine/ChessEngine.Engine/obj/",
+      "projectPath": "C:\\Users\\alexm\\OneDrive\\Desktop\\CS_Projects\\ChessRepo\\ChessEngine\\ChessEngine\\ChessEngine.Engine\\ChessEngine.Engine.csproj",
+      "packagesPath": "C:\\Users\\alexm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alexm\\OneDrive\\Desktop\\CS_Projects\\ChessRepo\\ChessEngine\\ChessEngine\\ChessEngine.Engine\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/oliverstrauss/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\alexm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -68,6 +75,10 @@
           {
             "name": "Microsoft.NETCore.App.Ref",
             "version": "[8.0.23, 8.0.23]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.23, 8.0.23]"
           }
         ],
         "frameworkReferences": {
@@ -75,7 +86,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

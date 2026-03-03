@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "eEEkJF3NUp4=",
+  "dgSpecHash": "r6xK4kIL2tk=",
   "success": true,
-  "projectFilePath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessRepo/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj",
+  "projectFilePath": "C:\\Users\\alexm\\OneDrive\\Desktop\\CS_Projects\\ChessRepo\\ChessEngine\\ChessEngine\\ChessEngine.Engine\\ChessEngine.Engine.csproj",
   "expectedPackageFiles": [
-    "/Users/oliverstrauss/.nuget/packages/microsoft.netcore.app.ref/8.0.23/microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
-    "/Users/oliverstrauss/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.23/microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512"
+    "C:\\Users\\alexm\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.23\\microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.23\\microsoft.windowsdesktop.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.23\\microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512"
   ],
   "logs": []
 }

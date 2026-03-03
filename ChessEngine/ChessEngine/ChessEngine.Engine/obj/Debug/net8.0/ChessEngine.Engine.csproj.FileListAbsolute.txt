@@ -21,3 +21,15 @@
 /Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessRepo/ChessEngine/ChessEngine/ChessEngine.Engine/obj/Debug/net8.0/refint/ChessEngine.Engine.dll
 /Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessRepo/ChessEngine/ChessEngine/ChessEngine.Engine/obj/Debug/net8.0/ChessEngine.Engine.pdb
 /Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessRepo/ChessEngine/ChessEngine/ChessEngine.Engine/obj/Debug/net8.0/ref/ChessEngine.Engine.dll
+C:\Users\alexm\OneDrive\Desktop\CS_Projects\ChessRepo\ChessEngine\ChessEngine\ChessEngine.Engine\bin\Debug\net8.0\ChessEngine.Engine.deps.json
+C:\Users\alexm\OneDrive\Desktop\CS_Projects\ChessRepo\ChessEngine\ChessEngine\ChessEngine.Engine\bin\Debug\net8.0\ChessEngine.Engine.dll
+C:\Users\alexm\OneDrive\Desktop\CS_Projects\ChessRepo\ChessEngine\ChessEngine\ChessEngine.Engine\bin\Debug\net8.0\ChessEngine.Engine.pdb
+C:\Users\alexm\OneDrive\Desktop\CS_Projects\ChessRepo\ChessEngine\ChessEngine\ChessEngine.Engine\obj\Debug\net8.0\ChessEngine.Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\OneDrive\Desktop\CS_Projects\ChessRepo\ChessEngine\ChessEngine\ChessEngine.Engine\obj\Debug\net8.0\ChessEngine.Engine.AssemblyInfoInputs.cache
+C:\Users\alexm\OneDrive\Desktop\CS_Projects\ChessRepo\ChessEngine\ChessEngine\ChessEngine.Engine\obj\Debug\net8.0\ChessEngine.Engine.AssemblyInfo.cs
+C:\Users\alexm\OneDrive\Desktop\CS_Projects\ChessRepo\ChessEngine\ChessEngine\ChessEngine.Engine\obj\Debug\net8.0\ChessEngine.Engine.csproj.CoreCompileInputs.cache
+C:\Users\alexm\OneDrive\Desktop\CS_Projects\ChessRepo\ChessEngine\ChessEngine\ChessEngine.Engine\obj\Debug\net8.0\ChessEngine.Engine.sourcelink.json
+C:\Users\alexm\OneDrive\Desktop\CS_Projects\ChessRepo\ChessEngine\ChessEngine\ChessEngine.Engine\obj\Debug\net8.0\ChessEngine.Engine.dll
+C:\Users\alexm\OneDrive\Desktop\CS_Projects\ChessRepo\ChessEngine\ChessEngine\ChessEngine.Engine\obj\Debug\net8.0\refint\ChessEngine.Engine.dll
+C:\Users\alexm\OneDrive\Desktop\CS_Projects\ChessRepo\ChessEngine\ChessEngine\ChessEngine.Engine\obj\Debug\net8.0\ChessEngine.Engine.pdb
+C:\Users\alexm\OneDrive\Desktop\CS_Projects\ChessRepo\ChessEngine\ChessEngine\ChessEngine.Engine\obj\Debug\net8.0\ref\ChessEngine.Engine.dll

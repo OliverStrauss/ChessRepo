@@ -1,43 +1,49 @@
 {
   "format": 1,
   "restore": {
-    "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessRepo/ChessEngine/ChessEngine/ChessEngine.Backend/ChessEngine.Backend.csproj": {}
+    "C:\\Users\\alexm\\OneDrive\\Desktop\\CS_Projects\\ChessRepo\\ChessEngine\\ChessEngine\\ChessEngine.Backend\\ChessEngine.Backend.csproj": {}
   },
   "projects": {
-    "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessRepo/ChessEngine/ChessEngine/ChessEngine.Backend/ChessEngine.Backend.csproj": {
+    "C:\\Users\\alexm\\OneDrive\\Desktop\\CS_Projects\\ChessRepo\\ChessEngine\\ChessEngine\\ChessEngine.Backend\\ChessEngine.Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessRepo/ChessEngine/ChessEngine/ChessEngine.Backend/ChessEngine.Backend.csproj",
+        "projectUniqueName": "C:\\Users\\alexm\\OneDrive\\Desktop\\CS_Projects\\ChessRepo\\ChessEngine\\ChessEngine\\ChessEngine.Backend\\ChessEngine.Backend.csproj",
         "projectName": "ChessEngine.Backend",
-        "projectPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessRepo/ChessEngine/ChessEngine/ChessEngine.Backend/ChessEngine.Backend.csproj",
-        "packagesPath": "/Users/oliverstrauss/.nuget/packages/",
-        "outputPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessRepo/ChessEngine/ChessEngine/ChessEngine.Backend/obj/",
+        "projectPath": "C:\\Users\\alexm\\OneDrive\\Desktop\\CS_Projects\\ChessRepo\\ChessEngine\\ChessEngine\\ChessEngine.Backend\\ChessEngine.Backend.csproj",
+        "packagesPath": "C:\\Users\\alexm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexm\\OneDrive\\Desktop\\CS_Projects\\ChessRepo\\ChessEngine\\ChessEngine\\ChessEngine.Backend\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/oliverstrauss/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\alexm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0",
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessRepo/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj": {
-                "projectPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessRepo/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj"
+              "C:\\Users\\alexm\\OneDrive\\Desktop\\CS_Projects\\ChessRepo\\ChessEngine\\ChessEngine\\ChessEngine.Engine\\ChessEngine.Engine.csproj": {
+                "projectPath": "C:\\Users\\alexm\\OneDrive\\Desktop\\CS_Projects\\ChessRepo\\ChessEngine\\ChessEngine\\ChessEngine.Engine\\ChessEngine.Engine.csproj"
               }
             }
           },
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessRepo/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj": {
-                "projectPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessRepo/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj"
+              "C:\\Users\\alexm\\OneDrive\\Desktop\\CS_Projects\\ChessRepo\\ChessEngine\\ChessEngine\\ChessEngine.Engine\\ChessEngine.Engine.csproj": {
+                "projectPath": "C:\\Users\\alexm\\OneDrive\\Desktop\\CS_Projects\\ChessRepo\\ChessEngine\\ChessEngine\\ChessEngine.Engine\\ChessEngine.Engine.csproj"
               }
             }
           }
@@ -74,11 +80,15 @@
               "version": "[8.0.23, 8.0.23]"
             },
             {
-              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "name": "Microsoft.NETCore.App.Host.win-x64",
               "version": "[8.0.23, 8.0.23]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.23, 8.0.23]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
               "version": "[8.0.23, 8.0.23]"
             }
           ],
@@ -87,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.3.32767]",
@@ -390,11 +400,15 @@
               "version": "[9.0.12, 9.0.12]"
             },
             {
-              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "name": "Microsoft.NETCore.App.Host.win-x64",
               "version": "[9.0.12, 9.0.12]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.12, 9.0.12]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
               "version": "[9.0.12, 9.0.12]"
             }
           ],
@@ -403,7 +417,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -691,22 +705,28 @@
         }
       }
     },
-    "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessRepo/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj": {
+    "C:\\Users\\alexm\\OneDrive\\Desktop\\CS_Projects\\ChessRepo\\ChessEngine\\ChessEngine\\ChessEngine.Engine\\ChessEngine.Engine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessRepo/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj",
+        "projectUniqueName": "C:\\Users\\alexm\\OneDrive\\Desktop\\CS_Projects\\ChessRepo\\ChessEngine\\ChessEngine\\ChessEngine.Engine\\ChessEngine.Engine.csproj",
         "projectName": "ChessEngine.Engine",
-        "projectPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessRepo/ChessEngine/ChessEngine/ChessEngine.Engine/ChessEngine.Engine.csproj",
-        "packagesPath": "/Users/oliverstrauss/.nuget/packages/",
-        "outputPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessRepo/ChessEngine/ChessEngine/ChessEngine.Engine/obj/",
+        "projectPath": "C:\\Users\\alexm\\OneDrive\\Desktop\\CS_Projects\\ChessRepo\\ChessEngine\\ChessEngine\\ChessEngine.Engine\\ChessEngine.Engine.csproj",
+        "packagesPath": "C:\\Users\\alexm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexm\\OneDrive\\Desktop\\CS_Projects\\ChessRepo\\ChessEngine\\ChessEngine\\ChessEngine.Engine\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/oliverstrauss/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\alexm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -749,6 +769,10 @@
             {
               "name": "Microsoft.NETCore.App.Ref",
               "version": "[8.0.23, 8.0.23]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.23, 8.0.23]"
             }
           ],
           "frameworkReferences": {
@@ -756,7 +780,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

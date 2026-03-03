@@ -120,6 +120,11 @@ public class Board
     public void movePeice(int startX, int startY, int endX, int endY)
     {
         Peice peice = getPeice(startX, startY);
+        if (peice == null)
+        {
+            Console.WriteLine($"{startX},{startY} is NULL");
+            return;
+        }
 
         peice.setTile(_board[endX, endY]);
 
