@@ -1,4 +1,5 @@
 using ChessEngine.Engine;
+using ChessEngine.Library;
 
 namespace MyGame.Peices;
 
@@ -9,9 +10,16 @@ public class Queen:Peice
         
     }
 
-    public override void Move()
+    public override List<Move>  generateMoves()
     {
+        return null;
+     //   maxSteps
+
+    }
         
+    public override string ToString()
+    {
+        return "Q";
     }
     
 }

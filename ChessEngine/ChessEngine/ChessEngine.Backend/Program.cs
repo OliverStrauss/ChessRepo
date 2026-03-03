@@ -13,7 +13,13 @@ namespace ChessEngine.Backend
         {
             Board b;
             b = new Board();
+            
+            
             Console.WriteLine(b);
+            b.movePeice(0,0,3,3);
+            Console.WriteLine(b);
+            
+            
         }
     }
 }

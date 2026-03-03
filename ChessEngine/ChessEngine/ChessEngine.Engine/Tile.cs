@@ -29,20 +29,32 @@ public class Tile
         this.peice = peice;
     }
 
+    public void removePeice()
+    {
+        peice = null;
+    }
+
+    public Peice getPeiceFromTile()
+    {
+        return peice;
+    }
+
     public override string ToString()
     {
-
-        String peiceStr = "";
+     
+        String colStr = "";
         if (peice == null)
         {
-           peiceStr = "";
+            return $"|   |";
+        }
+        if (peice.IsWhite())
+        {
+            colStr = "W";
         }
         else
         {
-            peiceStr = peice.ToString();
+            colStr = "B";
         }
-        String stringBlack = isBlack ? "B" : "W";
-        return "(" + position.X + "," + position.Y + "," +  stringBlack
-               + "," + peiceStr + ")";
+        return $"|" + peice.ToString() +"," +colStr +"|" ;
     }
 }

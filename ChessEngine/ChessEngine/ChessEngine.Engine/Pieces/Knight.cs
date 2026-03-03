@@ -1,4 +1,5 @@
 using ChessEngine.Engine;
+using ChessEngine.Library;
 
 namespace MyGame.Peices;
 
@@ -10,8 +11,13 @@ public class Knight: Peice
         
     }
 
-    public override void Move()
+    public override List<Move>  generateMoves()
     {
-        
+        return null;
+    }
+    
+    public override string ToString()
+    {
+        return "H";
     }
 }

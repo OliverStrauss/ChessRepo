@@ -1,4 +1,5 @@
 using ChessEngine.Engine;
+using ChessEngine.Library;
 
 namespace MyGame.Peices;
 
@@ -9,9 +10,14 @@ public class Rook:Peice
         
     }
     
-    public override void Move()
+    public override List<Move>  generateMoves()
     {
-        
+        return null;
+    }
+    
+    public override string ToString()
+    {
+        return "R";
     }
     
 }

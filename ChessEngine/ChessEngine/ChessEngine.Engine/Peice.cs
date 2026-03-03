@@ -1,34 +1,44 @@
 using ChessEngine.Engine;
+using ChessEngine.Library;
 
 namespace MyGame;
 
 public abstract class Peice
 {
-    private bool isBlack;
+    private bool isWhite;
     
-    private Tile anchor;
+    private Tile _tile;
     private bool isTaken;
 
 
-    public Peice(Tile anchor, bool isBlack)
+    public Peice(Tile anchor, bool isWhite)
     {
-        this.anchor = anchor;
-        this.isBlack = isBlack;
+        this._tile = anchor;
+        this.isWhite = isWhite;
         isTaken = false;
         
     }
 
-    public bool IsBlack()
+    public bool IsWhite()
     {
-        return isBlack;
+        return isWhite;
     }
     
     public bool IsTaken()
     {
         return IsTaken();
     }
+    public Tile GetTile()
+    {
+        return _tile;
+    }
 
-    public abstract void Move();
+    public void setTile(Tile tile)
+    {
+        this._tile = tile;
+    }
+
+    public abstract List<Move> generateMoves();
 
 
 }
