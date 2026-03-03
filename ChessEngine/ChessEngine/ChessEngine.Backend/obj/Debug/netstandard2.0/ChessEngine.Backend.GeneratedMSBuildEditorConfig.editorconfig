@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = ChessEngine.Backend
+build_property.ProjectDir = /Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Backend/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

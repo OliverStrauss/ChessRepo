@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <OutputType>Exe</OutputType>
+        <Nullable>enable</Nullable>
+        <TargetFrameworks>net9.0;net8.0</TargetFrameworks>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ChessEngine.Engine\ChessEngine.Engine.csproj" />
+    </ItemGroup>
+
+</Project>

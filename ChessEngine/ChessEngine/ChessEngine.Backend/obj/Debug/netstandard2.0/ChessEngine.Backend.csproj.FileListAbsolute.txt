@@ -1,0 +1,5 @@
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Backend/obj/Debug/netstandard2.0/ChessEngine.Backend.csproj.AssemblyReference.cache
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Backend/obj/Debug/netstandard2.0/ChessEngine.Backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Backend/obj/Debug/netstandard2.0/ChessEngine.Backend.AssemblyInfoInputs.cache
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Backend/obj/Debug/netstandard2.0/ChessEngine.Backend.AssemblyInfo.cs
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Backend/obj/Debug/netstandard2.0/ChessEngine.Backend.csproj.CoreCompileInputs.cache

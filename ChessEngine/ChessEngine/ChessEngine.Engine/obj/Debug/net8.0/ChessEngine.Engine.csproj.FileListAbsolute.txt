@@ -1,0 +1,11 @@
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Engine/bin/Debug/net8.0/ChessEngine.Engine.deps.json
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Engine/bin/Debug/net8.0/ChessEngine.Engine.dll
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Engine/bin/Debug/net8.0/ChessEngine.Engine.pdb
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Engine/obj/Debug/net8.0/ChessEngine.Engine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Engine/obj/Debug/net8.0/ChessEngine.Engine.AssemblyInfoInputs.cache
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Engine/obj/Debug/net8.0/ChessEngine.Engine.AssemblyInfo.cs
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Engine/obj/Debug/net8.0/ChessEngine.Engine.csproj.CoreCompileInputs.cache
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Engine/obj/Debug/net8.0/ChessEngine.Engine.dll
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Engine/obj/Debug/net8.0/refint/ChessEngine.Engine.dll
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Engine/obj/Debug/net8.0/ChessEngine.Engine.pdb
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/ChessEngine/ChessEngine/ChessEngine.Engine/obj/Debug/net8.0/ref/ChessEngine.Engine.dll
